@@ -11,4 +11,5 @@ Commits page: [Commits](https://github.com/haruto-ooki/Minecraft/commits/main)
 <br>
 コミット履歴は[こちら](https://github.com/haruto-ooki/Minecraft/commits/main)
 <br>
+<br>
 Copyright 2025 haruto ooki
